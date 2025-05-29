@@ -1,0 +1,4 @@
+python-dotenv==1.1.0
+flask==3.1.1
+flask-wtf==1.2.2
+cohere==5.15.0
